@@ -1,4 +1,4 @@
-# thala
+# Thala
 
 A new Flutter project.
 
